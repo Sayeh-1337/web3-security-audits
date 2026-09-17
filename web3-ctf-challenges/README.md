@@ -18,8 +18,11 @@ web3-ctf-challenges/
   08-ethernaut-vault/
   09-ethernaut-king/
   10-ethernaut-reentrance/
-  11-sch-hostile-takeover/ ← current
-  12-...                   ← add the next challenge when we start it
+  11-sch-hostile-takeover/
+  12-ethernaut-elevator/
+  13-ethernaut-privacy/
+  14-ethernaut-gatekeeper-one/    ← current
+  15-...                   ← add the next challenge when we start it
 ```
 
 Each challenge folder holds the target contract, exploit notes, and any Foundry files for that challenge only.

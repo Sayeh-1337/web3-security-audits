@@ -2,14 +2,17 @@
 
 One folder per challenge. Work them in order; do not mix exploits or notes across challenges.
 
-Source: [Smart Contracts Hacking — Web3 CTF Challenges](https://smartcontractshacking.com/tools/web3-ctf-challenges/ethernaut-fallback)
+Source: [Smart Contracts Hacking — Web3 CTF Challenges](https://smartcontractshacking.com/tools/web3-ctf-challenges)
 
 ## Layout
 
 ```
 web3-ctf-challenges/
-  01-ethernaut-fallback/   ← current
-  02-...                   ← add the next challenge when we start it
+  01-ethernaut-fallback/
+  02-ethernaut-fallout/
+  03-ethernaut-coin-flip/
+  04-ethernaut-telephone/  ← current
+  05-...                   ← add the next challenge when we start it
 ```
 
 Each challenge folder holds the target contract, exploit notes, and any Foundry files for that challenge only.

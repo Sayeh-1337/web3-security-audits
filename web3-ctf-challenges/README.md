@@ -23,8 +23,9 @@ web3-ctf-challenges/
   13-ethernaut-privacy/
   14-ethernaut-gatekeeper-one/
   15-ethernaut-gatekeeper-two/
-  16-ethernaut-naught-coin/    ← current
-  17-...                   ← add the next challenge when we start it
+  16-ethernaut-naught-coin/
+  17-ethernaut-preservation/
+  18-ethernaut-recovery/        ← current
 ```
 
 Each challenge folder holds the target contract, exploit notes, and any Foundry files for that challenge only.

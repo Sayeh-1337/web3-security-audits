@@ -25,7 +25,8 @@ web3-ctf-challenges/
   15-ethernaut-gatekeeper-two/
   16-ethernaut-naught-coin/
   17-ethernaut-preservation/
-  18-ethernaut-recovery/        ← current
+  18-ethernaut-recovery/
+  19-ethernaut-magic-number/    ← current
 ```
 
 Each challenge folder holds the target contract, exploit notes, and any Foundry files for that challenge only.

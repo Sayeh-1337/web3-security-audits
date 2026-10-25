@@ -4,3 +4,9 @@
 [submodule "web3-ctf-challenges/19-ethernaut-magic-number/lib/forge-std"]
 	path = web3-ctf-challenges/19-ethernaut-magic-number/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "web3-ctf-challenges/20-ethernaut-alien-codex/lib/forge-std"]
+	path = web3-ctf-challenges/20-ethernaut-alien-codex/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "web3-ctf-challenges/21-ethernaut-denial/lib/forge-std"]
+	path = web3-ctf-challenges/21-ethernaut-denial/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

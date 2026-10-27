@@ -28,7 +28,8 @@ web3-ctf-challenges/
   18-ethernaut-recovery/
   19-ethernaut-magic-number/
   20-ethernaut-alien-codex/
-  21-ethernaut-denial/          ← current
+  21-ethernaut-denial/
+  22-ethernaut-shop/            ← current
 ```
 
 Each challenge folder holds the target contract, exploit notes, and any Foundry files for that challenge only.
